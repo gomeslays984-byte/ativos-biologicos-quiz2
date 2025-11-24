@@ -1,2 +1,5 @@
-# ativos-biologicos-quiz2
-Quiz interativo sobre Ativos Biológicos e Produtos Agrícolas (Milho)
+# Quiz Ativos Biológicos
+Este pacote contém três versões do quiz:
+- quiz-standalone.html
+- quiz-firebase.html
+- quiz-login-theme.html
